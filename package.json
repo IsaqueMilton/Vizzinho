@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.3.5",
+    "next": "14.x.x",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "next-mdx-remote": "^4.2.0",
